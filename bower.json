@@ -13,8 +13,8 @@
     "homepage": "https://github.com/kiddy2910/fineuploader-s3.git",
     "ignore": [
         "*",
-        "!html",
-        "!placeholders",
+        "!html/**",
+        "!placeholders/**",
         "!custom.fineuploader.css",
         "!custom.fineuploader.js",
         "!custom.fineuploader.min.css",
