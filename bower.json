@@ -1,0 +1,28 @@
+{
+    "name": "fineuploader-s3",
+    "version": "4.1.1",
+    "description": "Fineuploader plugin for uploading files to Amazon S3 directly.",
+    "main": [ "custom.fineuploader.css", "custom.fineuploader.js",
+        "custom.fineuploader.min.css", "custom.fineuploader.min.js" ],
+    "keywords": [
+        "uploader",
+        "fineuploader",
+        "kiddy2910",
+        "dangduy2910@gmail.com"
+    ],
+    "homepage": "https://github.com/kiddy2910/fineuploader-s3.git",
+    "ignore": [
+        "*",
+        "!html",
+        "!placeholders",
+        "!custom.fineuploader.css",
+        "!custom.fineuploader.js",
+        "!custom.fineuploader.min.css",
+        "!custom.fineuploader.min.js",
+        "!edit.gif",
+        "!iframe.xss.response.js",
+        "!LICENSE",
+        "!loading.gif",
+        "!processing.gif"
+    ]
+}
